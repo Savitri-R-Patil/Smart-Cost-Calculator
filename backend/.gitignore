@@ -1,0 +1,12 @@
+# Python virtual environment
+venv/
+
+# Node.js modules
+frontend/node_modules/
+
+# Python cache
+_pycache_/
+*.pyc
+
+# macOS system file
+.DS_Store
